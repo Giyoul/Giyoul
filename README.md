@@ -117,8 +117,8 @@ Master Degree of Electrical and Elecronic engineering ```(09/2022 ~ Present)``` 
 </a>
 
 <!-- My snake -->
-<img src="https://github.com/Giyoul/Giyoul/blob/output/mysnake.svg" width="100%">
-
+<img src="https://github.com/junia3/junia3/blob/output/mysnake.svg" width="100%">
+<br><br>
 <br><br><br><br>
 
 <!-- Footer banner -->
