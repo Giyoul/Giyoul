@@ -1,5 +1,5 @@
 ### Github Stats
-![Giyoul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giyoul&show_icons=true&theme=radical)    
+![Giyoul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giyoul&show_icons=true&theme=synthwave)    
 
 
 ### Solved.ac Profile
