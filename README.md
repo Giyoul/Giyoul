@@ -19,7 +19,7 @@
 <br><br>
     
 <!-- Title Typing Effect -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Protest+Riot&pause=1000&color=FFD369&center=true&vCenter=true&random=false&width=435&lines=Hello!+I'm+Giyoung+Kim" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Protest+Riot&pause=1000&color=FFD369&size=40&center=true&vCenter=true&random=false&width=435&lines=Hello!+I'm+Giyoung+Kim" alt="Typing SVG" /></a>
 <br>
 <div align="center">  
 <br>
