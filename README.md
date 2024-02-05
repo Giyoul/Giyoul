@@ -9,7 +9,7 @@
 ### Solved.ac Profile
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=cla1209)](https://solved.ac/cla1209)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:222831,10:393E46,30:FFD369,75:393E46,100:222831&height=40&section=footer&text=&fontSize=0" width="100%"/>
+
 
 ---
 
@@ -117,5 +117,5 @@ Master Degree of Electrical and Elecronic engineering ```(09/2022 ~ Present)``` 
 <br><br><br><br>
 
 <!-- Footer banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:222831,10:393E46,30:FFD369,75:393E46,100:222831&height=40&section=footer&text=&fontSize=0" width="100%"/>
 </div>
