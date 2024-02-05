@@ -1,5 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A8E6CF,10:DCEDC1,30:FFD3B6,75:FFAAA5,100:ADC4CE&height=100&section=header&text=&fontSize=0" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A8E6CF,10:DCEDC1,30:FFD3B6,75:FFAAA5,100:ADC4CE&height=40&section=footer&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:222831,10:393E46,30:FFD369,75:EEEEEE,100:222831&height=100&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:222831,10:393E46,30:FFD369,75:EEEEEE,100:222831&height=40&section=footer&text=&fontSize=0" width="100%"/>
 
 ### Github Stats
 
