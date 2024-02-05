@@ -1,8 +1,4 @@
 
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Protest+Riot&pause=1000&color=FFD369&random=false&width=435&lines=Hello+I'm+GiYoung+Kim)](https://git.io/typing-svg)
-
 ### Github Stats
 
 ![Giyoul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giyoul&show_icons=true&theme=onedark)
@@ -27,6 +23,7 @@
 <br>
 <div align="center">  
 <br>
+    
 <!-- My CV/resume -->
 <details>
 <summary>About Me</summary>
