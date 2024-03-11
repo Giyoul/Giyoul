@@ -99,9 +99,10 @@ Master Degree of Electrical and Elecronic engineering ```(09/2022 ~ Present)``` 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Giyoul&show_icons=true&theme=material-palenight&hide_border=true&bg_color=222831&icon_color=FFD369&text_color=EEEEEE&title_color=FFD369&count_private=true" width=56% />
 </a>
- <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<!--  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Giyoul&theme=react-dark&bg_color=222831&hide_border=true&line=FFD369&color=FFD369" width=94%/>
-</a>
+</a> -->
+<br><br>
 
 <!-- Footer banner -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:222831,10:393E46,30:FFD369,75:393E46,100:222831&height=40&section=footer&text=&fontSize=0" width="100%"/>
