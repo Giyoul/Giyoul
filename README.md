@@ -97,7 +97,7 @@ Master Degree of Electrical and Elecronic engineering ```(09/2022 ~ Present)``` 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giyoul&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=222831&icon_color=FFD369&text_color=EEEEEE&title_color=FFD369&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>    
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Giyoul&show_icons=true&theme=material-palenight&hide_border=true&bg_color=222831&icon_color=FFD369&text_color=EEEEEE&title_color=FFD369&count_private=true" width=56% />
+    <img src="https://github-readme-stats.vercel.app/api?username=Giyoul&show_icons=true&theme=material-palenight&hide_border=true&bg_color=222831&icon_color=FFD369&text_color=EEEEEE&title_color=FFD369&count_private=true" width=56% />
 </a>
  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Giyoul&theme=react-dark&bg_color=222831&hide_border=true&line=FFD369&color=FFD369" width=94%/>
