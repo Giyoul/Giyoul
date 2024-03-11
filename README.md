@@ -94,7 +94,7 @@ Master Degree of Electrical and Elecronic engineering ```(09/2022 ~ Present)``` 
 <img src="http://mazandi.herokuapp.com/api?handle=cla1209&theme=dark"/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giyoul&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=222831&icon_color=FFD369&text_color=EEEEEE&title_color=FFD369&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Giyoul&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=222831&icon_color=FFD369&text_color=EEEEEE&title_color=FFD369&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>    
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Giyoul&show_icons=true&theme=material-palenight&hide_border=true&bg_color=222831&icon_color=FFD369&text_color=EEEEEE&title_color=FFD369&count_private=true" width=56% />
