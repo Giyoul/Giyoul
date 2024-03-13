@@ -103,6 +103,7 @@ Master Degree of Electrical and Elecronic engineering ```(09/2022 ~ Present)``` 
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Giyoul&theme=react-dark&bg_color=222831&hide_border=true&line=FFD369&color=FFD369" width=94%/>
 </a> -->
 <br><br>
+<br><br>
 
 <!-- Footer banner -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:222831,10:393E46,30:FFD369,75:393E46,100:222831&height=40&section=footer&text=&fontSize=0" width="100%"/>
