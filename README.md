@@ -2,6 +2,7 @@
 <!-- Header banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:222831,10:393E46,30:FFD369,75:393E46,100:222831&height=100&section=header&text=&fontSize=0" width="100%"/>
 <br><br>
+
     
 <!-- Title Typing Effect -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Protest+Riot&pause=1000&color=FFD369&size=40&center=true&vCenter=true&random=false&width=435&lines=Hello!+I'm+Giyoung+Kim" alt="Typing SVG" /></a>
