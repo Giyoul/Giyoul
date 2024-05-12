@@ -20,7 +20,7 @@
 ----
 <!-- My profile -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cla1209)](https://solved.ac/cla1209)
-<img src="http://mazandi.herokuapp.com/api?handle=cla1209&theme=dark"/>
+<!--<img src="http://mazandi.herokuapp.com/api?handle=cla1209&theme=dark"/>-->
 
 ----
 
