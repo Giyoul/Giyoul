@@ -43,6 +43,7 @@
   </a>
 </p>
 
+
 <br>
 <!-- Footer banner -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:222831,10:393E46,30:FFD369,75:393E46,100:222831&height=40&section=footer&text=&fontSize=0" width="100%"/>
