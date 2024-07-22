@@ -22,8 +22,6 @@
 ----
 <!-- My profile -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cla1209)](https://solved.ac/cla1209)
-<!-- 아래는 백준 잔디 클릭시 백준 연결되긴 함 근데 안쓸듯?-->
-<!--<img src="http://mazandi.herokuapp.com/api?handle=cla1209&theme=dark"/>-->
 
 
 ----
