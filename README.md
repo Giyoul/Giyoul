@@ -38,7 +38,7 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Giyoul&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/Giyoul"
-  width=94%
+  width="600"
   height="300"
 />
 </a>
