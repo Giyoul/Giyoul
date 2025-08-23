@@ -55,9 +55,9 @@
   <a href="https://www.oracle.com/java/" target="_blank">
     <img src="https://img.shields.io/badge/Java-c4832d.svg?style=flat&logo=coffeescript&logoColor=white" alt="Java">
   </a>
-  <a href="https://www.python.org/" target="_blank">
+<!--   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/python-bf5032.svg?style=flat&logo=python&logoColor=white" alt="python">
-  </a>
+  </a> -->
   <a href="https://spring.io/projects/spring-boot/" target="_blank">
     <img src="https://img.shields.io/badge/springboot-6DB33F.svg?style=flate&logo=springboot&logoColor=white" alt="springboot">
   </a>
