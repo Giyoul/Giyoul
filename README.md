@@ -25,12 +25,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cla1209)](https://solved.ac/cla1209)
 <img src="http://mazandi.herokuapp.com/api?handle=cla1209&theme=dark"/>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giyoul&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=222831&icon_color=37e09d&text_color=EEEEEE&title_color=37e09d&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-</a>    
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Giyoul&show_icons=true&theme=material-palenight&hide_border=true&bg_color=222831&icon_color=37e09d&text_color=EEEEEE&title_color=37e09d&count_private=true" width=56% />
-</a>
  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Giyoul&theme=react-dark&bg_color=222831&hide_border=true&line=37e09d&color=37e09d" width=94%/>
 </a>
