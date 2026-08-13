@@ -20,11 +20,11 @@
 <!-- body -->
 <!-- My profile -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cla1209)](https://solved.ac/cla1209)
-<img src="http://mazandi.herokuapp.com/api?handle=cla1209&theme=dark"/>
+<!-- <img src="http://mazandi.herokuapp.com/api?handle=cla1209&theme=dark"/> -->
 
- <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+ <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Giyoul&theme=react-dark&bg_color=222831&hide_border=true&line=37e09d&color=37e09d" width=94%/>
-</a>
+</a> -->
 
 <!-- <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Giyoul&utm_content=farm">
 <img
