@@ -36,22 +36,8 @@
 
 ----
 
-<p align="center">
-  <a href="https://en.cppreference.com/w/" target="_blank">
-    <img src="https://img.shields.io/badge/C-3055b3.svg?style=flat&logo=c&logoColor=white" alt="C">
-  </a>
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://img.shields.io/badge/C++-3055b3.svg?style=flat&logo=cplusplus&logoColor=white" alt="C++">
-  </a>
-  <a href="https://www.oracle.com/java/" target="_blank">
-    <img src="https://img.shields.io/badge/Java-c4832d.svg?style=flat&logo=coffeescript&logoColor=white" alt="Java">
-  </a>
-  <a href="https://kotlinlang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/kotlin-7F52FF.svg?style=flat&logo=kotlin&logoColor=white" alt="kotlin">
-  </a>
-  <a href="https://spring.io/projects/spring-boot/" target="_blank">
-    <img src="https://img.shields.io/badge/springboot-6DB33F.svg?style=flate&logo=springboot&logoColor=white" alt="springboot">
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,aws,git&theme=dark" />
 </p>
 
 
